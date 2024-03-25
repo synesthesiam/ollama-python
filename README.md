@@ -1,3 +1,5 @@
+**NOTE**: This is a fork of the official Ollama Python library with [loosened dependencies](https://github.com/ollama/ollama-python/pull/97) in order to make it compatible with [Home Assistant](https://www.home-assistant.io/).
+
 # Ollama Python Library
 
 The Ollama Python library provides the easiest way to integrate Python 3.8+ projects with [Ollama](https://github.com/jmorganca/ollama).

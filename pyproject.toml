@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "ollama"
-version = "0.0.0"
-description = "The official Python client for Ollama."
+name = "ollama-hass"
+version = "0.1.7"
+description = "A fork of the official Python client for Ollama for Home Assistant."
 authors = ["Ollama <hello@ollama.com>"]
 license = "MIT"
 readme = "README.md"
